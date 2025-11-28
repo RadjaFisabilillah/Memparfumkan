@@ -1,3 +1,5 @@
+// LOKASI: radjafisabilillah/memparfumkan/Memparfumkan-4a870e4c4d1bebb824cd590d81c1da1cfe00e035/tsconfig.app.json
+
 {
   "extends": "@vue/tsconfig/tsconfig.dom.json",
   "include": ["env.d.ts", "src/**/*", "src/**/*.vue"],

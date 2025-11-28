@@ -2,7 +2,7 @@
 
 <script setup lang="ts">
 import { RouterLink } from "vue-router";
-import { BeakerIcon, GlobeAltIcon, PuzzlePieceIcon } from "@heroicons/vue/24/outline";
+import { BeakerIcon, GlobeAltIcon, PuzzlePieceIcon } from "@heroicons/vue/24/solid";
 import { UserCircleIcon } from "@heroicons/vue/20/solid";
 </script>
 
